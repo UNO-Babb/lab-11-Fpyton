@@ -1,0 +1,6 @@
+I adjusted number checkers from 5 to 2 and the idle time changeto 208 min. and wait time was 1.79 min.
+I adjusted number of items from 20 to 50 and the wait time increase to 5.01 and idle time to 92 min.
+I increase the number of checkers to 6 and waiting time change 3.05 min
+I increasee the total of shoppers from to 15 and average time came down to 0.20 min and the idle time was 826 min.
+
+
